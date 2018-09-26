@@ -10,5 +10,5 @@ For the FIRST TIME, The MIT-Global Startup Labs program was in Nepal for this su
 This was an intensive 7-week course from the June 15 to August 3, 2018.
 
 
- Opus  is web based platform that focuses on solving problem existing in  art industry of Nepal.We are still working to give it full fledged form.
+ Opus  is web based platform that focuses on solving problem existing in  art industry of Nepal and we are still working to give it full fledged form.
 
